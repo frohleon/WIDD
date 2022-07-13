@@ -5,7 +5,4 @@ dependencies:
   - numpy
   - pandas
   - ipywidgets
-  - requests 
-  - os
-  - json
-  - re
+  - requests
